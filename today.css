@@ -1,0 +1,72 @@
+.container
+{
+    width: 300px;
+    height: 200px;
+    padding: 20px;
+    border: 5px solid black;
+    margin: 15px;
+}
+
+.container-1
+{
+    width: 250px;
+    height: 150px;
+    padding: 20px;
+    border:5px  solid red ;
+}
+
+.container-3 
+{
+    width: 200px;
+    border: 2px solid green;
+    display: inline-block;
+
+}
+
+.container-3
+{
+    margin-right: 20px;
+
+}
+.container-4
+{
+    margin-left: 20px;
+    display: inline-block;
+    border: 2px solid green;
+    width: 200px;
+}
+   .parentcontainer
+   {
+
+    border: 2px solid green;
+    height: 500px;
+    width: 100%;
+   }
+
+   .childcontainer{
+    border: 2px solid black;
+    width:300px;
+    height: 200px;
+    margin-top: 150px;
+     }
+     
+     .main
+     {
+        border: 2px solid blue;
+        height: 250px;
+        width: 250px;
+        
+        
+     }
+      .box1{
+        border: 2px solid green;
+        height: 100px;
+        width: 200px;
+        margin-bottom: 30px;
+      }
+      .box2{
+        border: 2px solid green;
+        height: 100px;
+        width: 200px;
+        margin-top: 30px;
+      }
